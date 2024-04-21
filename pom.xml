@@ -22,7 +22,7 @@
       <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
       <java.version>11</java.version>
 
-      <jjwt.version>0.10.6</jjwt.version>
+      <jjwt.version>0.12.5</jjwt.version>
 
       <dockerfile-maven-plugin.version>1.4.12</dockerfile-maven-plugin.version>
    </properties>
